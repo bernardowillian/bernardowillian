@@ -2,7 +2,7 @@
 
 <!-- **`Estudante por enquanto, colocar um titulo foda depois`** -->
 
-<table border="0">
+<table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="width: 70%; padding-right: 16px;">
       My name is Bernardo Willian da Cunha, I'm 19 years old, and I'm currently studying Information Systems at UNIPAM. I have a strong interest in technology and am always seeking to learn more in order to grow and make a difference in this field.

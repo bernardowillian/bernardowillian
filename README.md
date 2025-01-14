@@ -2,16 +2,9 @@
 
 <!-- **`Estudante por enquanto, colocar um titulo foda depois`** -->
 
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td style="width: 70%; padding-right: 16px;">
-      My name is Bernardo Willian da Cunha, I'm 19 years old, and I'm currently studying Information Systems at UNIPAM. I have a strong interest in technology and am always seeking to learn more in order to grow and make a difference in this field.
-    </td>
-    <td style="width: 30%; text-align: center;">
-      <img src="https://i.pinimg.com/originals/14/2f/59/142f59e54959666622e37ce9e0780663.gif" alt="Descrição da Imagem" width="100%">
-    </td>
-  </tr>
-</table>
+|  |  |
+| --- | --- |
+| My name is Bernardo Willian da Cunha, I'm 19 years old, and I'm currently studying Information Systems at UNIPAM. I have a strong interest in technology and am always seeking to learn more in order to grow and make a difference in this field. | ![Imagem](https://i.pinimg.com/originals/14/2f/59/142f59e54959666622e37ce9e0780663.gif) |
 
 ---
 

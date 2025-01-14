@@ -3,10 +3,10 @@
 <!-- **`Estudante por enquanto, colocar um titulo foda depois`** -->
 
 <div style="display: flex; align-items: center;">
-  <p style="flex: 1; margin-right: 20px;">
+  <p style="flex: 1; margin-right: 8px;">
     My name is Bernardo Willian da Cunha, I'm 19 years old, and I'm currently studying Information Systems at UNIPAM. I have a strong interest in technology and am always seeking to learn more in order to grow and make a difference in this field.
   </p>
-  <img src="https://i.pinimg.com/originals/14/2f/59/142f59e54959666622e37ce9e0780663.gif" alt="Descrição da Imagem" width="20%" height="auto">
+  <img src="https://i.pinimg.com/originals/14/2f/59/142f59e54959666622e37ce9e0780663.gif" alt="Descrição da Imagem" width="100" height="auto">
 </div>
 
 ---
@@ -81,7 +81,7 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="150" 
     style="padding-right: 8px;" 
     src="https://github-readme-stats.vercel.app/api?username=bernardowillian&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
@@ -89,7 +89,7 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardowillian&theme=tokyonight&layout=compact" 
   />
 
